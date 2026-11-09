@@ -5,7 +5,7 @@ export const botConfig = {
   // BOT PRESENCE (what users see under the bot name)
   // =========================
   // `status` options:
-  // - "online"    = green dot
+  // - "online" hi= green dot
   // - "idle"      = yellow moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
@@ -19,7 +19,7 @@ export const botConfig = {
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
-    // 4 = Custom
+    // 4 = Custom cool
     // 5 = Competing
     activities: [
       {
@@ -56,7 +56,8 @@ export const botConfig = {
   },
 
   // =========================
-  // APPLICATIONS SYSTEM
+  // APPLICATIONS SYSTEm
+  
   // =========================
   applications: {
     // Default questions shown when someone fills out an application.
